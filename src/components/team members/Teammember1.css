@@ -1,0 +1,95 @@
+
+.container7{
+    position: relative;
+    top: 6rem;
+    background-color: white;
+    padding: 0rem 0rem 5rem 0rem;
+    margin-bottom: 200px;
+}
+.section-1{
+    margin: 0;
+    position: relative;
+    
+    padding-top: 100px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    
+    
+}
+.image-container{
+    width: 300px;
+    border: 2px solid black;
+    height: 300px;
+    border-radius: 50%;
+    background-image: url("profile1.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.member-img-section{
+    width: 20%;
+    margin-left: 3rem;
+    
+}
+.member-img-name p{
+    font-size: 1.3rem;
+    padding: 0;
+    margin: 0;
+
+}
+.member-img-name h2{
+    margin: 0;
+    padding: 0;
+}
+.member-details{
+    width: 30%;
+    padding-right: 0.5rem;
+    
+    font-size: 1rem;
+    
+}
+.member-details h2{
+    font-size: 1.4rem;
+    padding-bottom: 1rem;
+}
+.member-details p{
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    line-height: 25px;
+}
+.section-2{
+    background-color: rgb(8, 234, 255);
+    margin: 0rem 5rem 0rem 5rem;
+    
+    
+}
+.col{
+    display: flex;
+
+}
+.row{
+
+    width: 50%;
+    padding-left: 1rem;
+}
+.row p{
+    padding-left: 0.7rem;
+    padding-bottom: 1rem;
+    font-size: 0.9rem;
+}
+.row h3{
+    font-size: 1rem;
+}
+.hr{
+    border-top: 1px solid gainsboro;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.container8{
+
+    background-color: rgb(216, 216, 216);
+    padding: 7rem 0rem 5rem 0rem;
+    margin-bottom: 200px;
+}
