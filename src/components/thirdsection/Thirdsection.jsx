@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './Thirdsection.css'
 const Thirdsection = () => {
+  
   const[content,setContent] = useState(["Tax Filing: For students, employed, self-employed, corporations, and rental properties."]);
   const[secondcontent,setSecondcontent] = useState(["Tax Preparation: Personal and business tax preparation tailored to your needs."])
   const active = () =>{
